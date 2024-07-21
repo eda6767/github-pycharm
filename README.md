@@ -1,65 +1,79 @@
 # Github in Pycharm
 
-1. Setting Up GitHub Integration
-Install Git:
 
-Make sure Git is installed on your machine. You can download it from git-scm.com.
-Configure Git:
 
-Open a terminal and set your Git username and email:
+<p align="center">
+</p>
+
+
+<br/>
+</br>
+
+<sub/>  1. Setting Up GitHub Integration </sub>
+
+<sub/>  Install Git: </sub>
+
+<sub/>  Make sure Git is installed on your machine. You can download it from git-scm.com.
+Configure Git: </sub>
+
+<sub/> Open a terminal and set your Git username and email: </sub>
+
+<sub/> 
 
 ``git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com" ``
+git config --global user.email "your.email@example.com" `` 
 
-Log into GitHub from PyCharm:
+</sub>
 
-Open PyCharm and go to File > Settings > Version Control > GitHub.
-Click Add Account, and log in using your GitHub credentials.
+<sub/>  Log into GitHub from PyCharm: </sub>
 
-2. Cloning a Repository
-Open the Get from Version Control Dialog:
+<sub/>  Open PyCharm and go to File > Settings > Version Control > GitHub.
+Click Add Account, and log in using your GitHub credentials. </sub>
 
-Go to File > New > Project from Version Control.
-Enter Repository URL:
+<sub/>  2. Cloning a Repository </sub>
+<sub/> Open the Get from Version Control Dialog: </sub>
 
-Paste the URL of your GitHub repository.
+<sub/> Go to File > New > Project from Version Control. </sub>
+<sub/> Enter Repository URL: </sub>
+
+<sub/> Paste the URL of your GitHub repository.
 Select the directory where you want to clone the repository.
-Clone the Repository:
+Clone the Repository: </sub>
 
-Click Clone to download the repository to your local machine.
+<sub/> Click Clone to download the repository to your local machine. </sub>
 
-3. Creating a New Repository
-Create a New Project:
+<sub/> 3. Creating a New Repository </sub>
+<sub/> Create a New Project: </sub>
 
-Go to File > New Project and create your project.
-Enable Git:
+<sub/> Go to File > New Project and create your project. 
+Enable Git: </sub>
 
-Go to VCS > Enable Version Control Integration.
+<sub/> Go to VCS > Enable Version Control Integration.
 Select Git from the dropdown menu.
-Share Project on GitHub:
+Share Project on GitHub: </sub>
 
-Go to VCS > Import into Version Control > Share Project on GitHub.
+<sub/> Go to VCS > Import into Version Control > Share Project on GitHub.
 Enter the repository name and description.
-Click Share.
+Click Share. </sub>
 
 
-4. Basic Git Operations
-Commit Changes:
+<sub/> 4. Basic Git Operations
+Commit Changes: </sub>
 
-Make your changes in the code.
+<sub/> Make your changes in the code.
 Go to VCS > Commit or press Ctrl+K.
 Enter a commit message and click Commit.
-Push Changes:
+Push Changes: </sub>
 
-After committing, go to VCS > Git > Push or press Ctrl+Shift+K.
+<sub/> After committing, go to VCS > Git > Push or press Ctrl+Shift+K.
 Select the commits to push and click Push.
-Pull Changes:
+Pull Changes: </sub>
 
-To update your local repository with changes from GitHub, go to VCS > Git > Pull or press Ctrl+T.
-Creating and Merging Branches:
+<sub/> To update your local repository with changes from GitHub, go to VCS > Git > Pull or press Ctrl+T.
+Creating and Merging Branches: </sub> 
 
-To create a new branch, go to VCS > Git > Branches, click New Branch, and enter the branch name.
-To merge branches, switch to the target branch, then go to VCS > Git > Merge Changes, and select the branch to merge.
+<sub/> To create a new branch, go to VCS > Git > Branches, click New Branch, and enter the branch name.
+To merge branches, switch to the target branch, then go to VCS > Git > Merge Changes, and select the branch to merge. </sub>
 
 <img width="859" alt="Zrzut ekranu 2024-07-20 o 18 36 51" src="https://github.com/user-attachments/assets/447f485b-440b-49b7-adc7-d1fcb0ed7d55">
 
