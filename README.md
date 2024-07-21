@@ -105,6 +105,9 @@ To merge branches, switch to the target branch, then go to VCS > Git > Merge Cha
 <img width="350" alt="Zrzut ekranu 2024-07-20 o 21 52 50" src="https://github.com/user-attachments/assets/5c630448-5c95-4b9f-b7fc-1d69a8cc3423">
 </p>
 
+
+<sub/> To update remote repository click merge into main on develop branch </sub>
+
 <p align="center">
 <img width="350" alt="Zrzut ekranu 2024-07-20 o 21 53 36" src="https://github.com/user-attachments/assets/abd89296-de86-4408-b894-5e7787d5ac99">
 </p>
